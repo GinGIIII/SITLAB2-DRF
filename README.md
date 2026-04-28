@@ -1,1 +1,2 @@
-# SITLAB2-DRF
+# api_yatube
+api_yatube
